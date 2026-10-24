@@ -1,0 +1,4 @@
+method_pair,force_mad_ev_per_a,mean_force_angle_deg
+RPBE/def2-TZVP and B3LYP/def2-TZVP,0.256340,7.748804
+PBE/def2-SVP and RPBE/def2-TZVP,0.204672,8.639182
+PBE/def2-SVP and B3LYP/def2-TZVP,0.401575,15.006611
