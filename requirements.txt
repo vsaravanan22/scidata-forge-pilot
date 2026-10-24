@@ -1,0 +1,6 @@
+pyscf==2.14.0
+rdkit==2026.9.1
+pyberny==0.7.0
+numpy==2.5.3
+scipy==1.18.1
+pandas==3.0.5

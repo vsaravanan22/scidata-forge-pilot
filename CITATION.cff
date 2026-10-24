@@ -1,0 +1,11 @@
+cff-version: 1.2.0
+message: "If you use this pilot, please cite it as below."
+title: "SciData-Forge correspondence-test pilot"
+authors:
+  - family-names: Saravanan
+    given-names: Vijayalakshmi
+    affiliation: "The University of Texas at Tyler"
+version: 1.0.0
+date-released: 2026-10-23
+license: MIT
+repository-code: "https://github.com/HPCAI-lab/scidata-forge-pilot"
